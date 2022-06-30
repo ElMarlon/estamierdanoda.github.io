@@ -1,0 +1,32 @@
+
+
+    body{
+    background-image:url(https://www.10wallpaper.com/wallpaper/1366x768/1203/anonymous_barcode-Computer_related_desktop_wallpaper_1366x768.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+        }   
+
+
+a{
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+    a:link, a:visited {
+        background-color: #a6a9c4;
+        }
+        a:hover, a:active {
+        background-color: #0000FF;
+        }
+        div
+        {
+        width: 350px ;
+        
+        border: 15px solid #000000;
+        padding: 50px;
+        margin: 20px;
+        }
